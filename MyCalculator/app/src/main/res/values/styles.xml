@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="ButtonStyle1">
+    <item name="android:layout_width">40dp </item>
+    <item name="android:layout_height">60dp </item>
+    <item name="android:layout_weight">1 </item>
+    <item name="android:background">"@drawable/button1"</item>
+    <item name="android:elevation">30dp </item>
+    <item name="android:padding">5dp </item>
+    <item name="android:textColor">"#66686A" </item>
+    <item name="android:textSize">20sp </item>
+    <item name="android:textStyle">bold </item>
+</style>
+
+    <style name="ButtonStyle2">
+        <item name="android:layout_width">40dp </item>
+        <item name="android:layout_height">60dp </item>
+        <item name="android:layout_weight">1 </item>
+        <item name="android:background">"@drawable/button2"</item>
+        <item name="android:elevation">30dp </item>
+        <item name="android:padding">5dp </item>
+        <item name="android:textColor">"#F2F5F8" </item>
+        <item name="android:textSize">20sp </item>
+        <item name="android:textStyle">bold </item>
+    </style>
+
+    <style name="ButtonStyle3">
+        <item name="android:layout_width">40dp </item>
+        <item name="android:layout_height">60dp </item>
+        <item name="android:background">"@drawable/button2"</item>
+        <item name="android:elevation">30dp </item>
+        <item name="android:padding">5dp </item>
+        <item name="android:textSize">20sp </item>
+        <item name="android:textStyle">bold </item>
+    </style>
+
+
+</resources>
